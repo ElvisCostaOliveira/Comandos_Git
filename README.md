@@ -15,3 +15,6 @@ git checkout nomeDaBranch <br/>
 *Atualizar a branch com a main* <br/>
 git checkout minhaBranch <br/>
 git pull origin main --rebase <br/>
+
+*Baixar uma branch específica* <br/>
+git clone -b nome_da_branch link_do_git
