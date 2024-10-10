@@ -27,7 +27,7 @@ git flow feature finish NOME_DA_BRANCH    //finalizar a branch (irá excluir), a
 
 git flow release start 1.0    //Liberar para teste com numero de versão baseada na develop <br/>
 git flow release finish 1.0    //Finaliza o teste e cria um merge para a main e develop (produção) <br/>
-(importante: irá abrir uma tela para comentar, precisa ser fechado para continuar)<br/>
+(importante: irá abrir uma tela para comentar, pode comentar e em seguida utiliza :wq! para salvar e sair)<br/>
 
 git flow hotfix start 1.1     //hotfix para atualizar problemas na main<br/>
 *git add . , git commit , git push ou git flow publish para continuar<br/>
