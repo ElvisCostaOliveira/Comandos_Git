@@ -35,7 +35,11 @@ git flow hotfix start 1.1     //hotfix para atualizar problemas na main<br/>
 git flow hotfix finish    //Finaliza o teste e cria um merge para a main e develop (produção) <br/>
 (importante: irá abrir uma tela para comentar, precisa ser fechado para continuar)<br/>
 
+git push --all    //atualização todas as branchs
 
-<img src="https://github.com/ElvisCostaOliveira/Comandos_Git/blob/main/image/git_flow.gif" width="420">
+
+
+
+<img src="https://github.com/ElvisCostaOliveira/Comandos_Git/blob/main/image/git_flow.gif" width="620">
 
 
