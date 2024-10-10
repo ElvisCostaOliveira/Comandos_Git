@@ -27,6 +27,6 @@ git flow feature publish NOME_DA_BRANCH    //Irá fazer push para develop e irá
 git flow feature finish NOME_DA_BRANCH    //finalizar a branch (irá excluir), após mandar para a develop <br/>
 
 
-<img src="https://github.com/ElvisCostaOliveira/Comandos_Git/tree/main/image/git_flow.gif" width="220">
+<img src="https://github.com/ElvisCostaOliveira/Comandos_Git/blob/main/image/git_flow.gif" width="420">
 
 
