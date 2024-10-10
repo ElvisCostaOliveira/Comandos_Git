@@ -18,3 +18,13 @@ git pull origin main --rebase <br/>
 
 *Baixar uma branch específica* <br/>
 git clone -b nome_da_branch link_do_git
+
+*Utilizando git flow* <br/>
+git flow init      //iniciando o git flow, irá iniciar a branch develop
+
+git flow feature starts NOME_DA_BRANCH    //iniciando a branch feature a partir da develop
+git flow feature publish NOME_DA_BRANCH    //Irá fazer push para develop e irá continuar
+git flow feature finish NOME_DA_BRANCH    //finalizar a branch (irá excluir), após mandar para a develop
+
+
+
