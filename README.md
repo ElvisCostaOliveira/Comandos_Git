@@ -35,6 +35,7 @@ git flow hotfix finish    //Finaliza o teste e cria um merge para a main e devel
 (importante: irá abrir uma tela para comentar, precisa ser fechado para continuar)<br/>
 
 *git push --all*    //atualização todas as branchs, necessariamente dar esse comando ao fim do desenvolvimento.
+*git tags --all*    //atualização todas as tags, necessariamente dar esse comando ao fim do desenvolvimento.
 
 
 
