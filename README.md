@@ -1,11 +1,12 @@
 # Comandos_Git
 
 *Para subir um projeto existente na maquina local para o github* <br/>
+Crie um projeto no git, de preferência com o mesmo nome-do-projeto <br/>
 git init <br/>
-git remote add origin https://github.com/user/repo.git <br/>
 git add . <br/>
 git commit -m "primeiro commit" <br/>
-git push origin master <br/>
+git remote add origin *https://github.com/seu-usuario/nome-do-projeto.git* <br/>
+git push -u origin master
 
 ## *Para listar e trocar de branch no github* <br/>
 git branch -a <br/>
